@@ -1,0 +1,6 @@
+[submodule "Questionnaire_front_end"]
+	path = Questionnaire_front_end
+	url = https://github.com/cyysc1998/Questionnaire.git
+[submodule "Questionnaire_back_end"]
+	path = Questionnaire_back_end
+	url = https://github.com/cyysc1998/Questionnaire_backend.git
