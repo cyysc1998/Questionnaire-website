@@ -10,11 +10,11 @@
 
 ### User Case Diagram
 
-<img title="" src="./assets/usercase.mp4" alt="usercase.jpg" width="526">
+<img title="" src="./assets/usercase.jpg" alt="usercase.jpg" width="526">
 
 ### Interface
 
-See [interface.md](./interface.md)
+See [interface.md](./doc/interface.md)
 
 ### Document
 
